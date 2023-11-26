@@ -1,0 +1,58 @@
+#imagenConBorde {
+    border: none;
+    transition: border 0.3s ease; 
+    width: 500px; 
+    height: 500px; 
+  }
+  body.page1 {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  body.page2 {
+    background-color: purple;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+  img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+
+  input {
+    width: 30px;
+    text-align: center;
+  }
+  h1 {
+    color: silver;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  }
+
+  body.page3 {
+    background-color: skyblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  select {
+    margin: 10px;
+  }
+
+  button {
+    margin: 10px;
+  }
+
+  #resultado {
+    margin: 10px;
+    font-weight: bold;
+  }
+  h1{
+    color: goldenrod;
+  }
+  }
